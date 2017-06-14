@@ -83,6 +83,15 @@
         	</div>
         	<!-- /.carousel -->
 		</div>
+		<iframe src="http://free.timeanddate.com/countdown/i5r0cq7f/n505/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2017-06-06T00:00:00" allowTransparency="true" frameborder="1" width="349" height="89"></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<h1 style="color:red;">Amazing Discount Sales</h1>
 		<!-- banner -->
 	<div class="banner">
 		<div class="w3l_banner_nav_left">
@@ -96,13 +105,7 @@
 					<span class="icon-bar"></span>
 				  </button>
 			   </div> 
-			   <br>
-			   <br>
-			   <br>
-			   <br>
-			   <br>
-			   <br>
-			   <br>
+			  
 			   
 			  
 		<!-- banner -->
@@ -120,7 +123,7 @@
 				</div>
 				<div class="col-md-4 wthree_banner_bottom_left">
 					<div class="wthree_banner_bottom_left_grid">
-						<img src="resources/images/10.jpg" alt=" " class="img-responsive" />
+						<img src="resources/images/offers1.jpg" alt=" " class="img-responsive" />
 						<div class="wthree_banner_btm_pos1">
 							<h3>Save <span>Upto</span> $10</h3>
 						</div>
@@ -128,7 +131,67 @@
 				</div>
 				<div class="col-md-4 wthree_banner_bottom_left">
 					<div class="wthree_banner_bottom_left_grid">
-						<img src="resources/images/30.jpg" alt=" " class="img-responsive" />
+						<img src="resources/images/offers2.jpg" alt=" " class="img-responsive" />
+						<div class="wthree_banner_btm_pos">
+							<h3>introducing <span>best store</span> for <i>food</i></h3>
+						</div>
+					</div>
+				</div>
+				<div>
+				</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+			<h2 style="color:red;">Special Offers</h2>
+		<!-- banner -->
+		<!-- banner -->
+	<div class="banner">
+		<div class="w3l_banner_nav_left">
+			<nav class="navbar nav_bottom">
+			 <!-- Brand and toggle get grouped for better mobile display -->
+			  <div class="navbar-header nav_2">
+				  <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+			   </div> 
+	<div class="banner_bottom">
+			<div class="wthree_banner_bottom_left_grid_sub">
+			</div>
+			<div class="wthree_banner_bottom_left_grid_sub1">
+				<div class="col-md-4 wthree_banner_bottom_left">
+					<div class="wthree_banner_bottom_left_grid">
+						<img src="resources/images/offers3.jpg" alt=" " class="img-responsive" />
+						<div class="wthree_banner_bottom_left_grid_pos">
+							<h4>Discount for student Offers upto <span>25%</span></h4>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 wthree_banner_bottom_left">
+					<div class="wthree_banner_bottom_left_grid">
+						<img src="resources/images/offers5.jpg" alt=" " class="img-responsive" />
+						<div class="wthree_banner_btm_pos1">
+							<h3>Save <span>Upto</span> $10</h3>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 wthree_banner_bottom_left">
+					<div class="wthree_banner_bottom_left_grid">
+						<img src="resources/images/offers6.jpg" alt=" " class="img-responsive" />
 						<div class="wthree_banner_btm_pos">
 							<h3>introducing <span>best store</span> for <i>food</i></h3>
 						</div>
@@ -136,24 +199,9 @@
 				</div>
 				<div>
 		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
+		
+		
+		
 		<br>
 		<br>
 		<br>
